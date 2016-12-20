@@ -6,8 +6,8 @@
   <nav>
     <?php
             $args = array (
-              'menu'            => 'header-menu',
-              'theme_location'  => 'header-menu',
+              'menu'            => 'primary-menu',
+              'theme_location'  => 'primary-menu',
               'depth'             => 2,
               'menu_class'      => 'nav navbar-nav navbar-right',
               'container'       => 'false'
